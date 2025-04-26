@@ -6,3 +6,5 @@
 - Responsiveness (PC, Tablet, Phones)
 - Form submission and administration through Netlify
 
+Used Sass for this project.
+
